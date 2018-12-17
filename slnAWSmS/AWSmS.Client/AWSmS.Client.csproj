@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AWSmS.Service\AWSmS.Service.csproj" />
+    <ProjectReference Include="..\AWSmS.Utils\AWSmS.Utils.csproj" />
+  </ItemGroup>
+
 </Project>

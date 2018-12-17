@@ -9,4 +9,8 @@
     <PackageReference Include="AWSSDK.SimpleNotificationService.NetCore.Support" Version="1.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AWSmS.Utils\AWSmS.Utils.csproj" />
+  </ItemGroup>
+
 </Project>
