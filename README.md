@@ -21,5 +21,7 @@ In AWSmS.Utils project, open AWSCredentials.cs and define the variables:
         public static string AccessKey = "";
         public static string SecretKey = "";
         
-Any doubts about how to configure AWS Credentials? Check here: https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-credentials.html
+Any doubts about how to configure AWS Credentials? 
+
+Check here: https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-credentials.html
 
