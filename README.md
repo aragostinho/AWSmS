@@ -7,7 +7,7 @@ This program uses AWSSDK.Core and AWSSDK.SimpleNotificationService.
 # Service Layer
 In AWSmS.Service project there are the following objects:
 
-- Message: The message containing the properties MessageText, PhoneNumber, MessageType and SenderId.  The SenderId working depends on each country, please check if your country can use SenderId on: https://docs.aws.amazon.com/sns/latest/dg/sms_supported-countries.html
+- Message: The message containing the properties MessageText, PhoneNumber, MessageType and SenderId.  The SenderId depends on each country, please check if your country can use SenderId on: https://docs.aws.amazon.com/sns/latest/dg/sms_supported-countries.html
 
 - MessageContract: DesignContract to verify well filled properties 
 - MessageType: Promotional or Transacion SMS
