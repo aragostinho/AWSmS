@@ -23,5 +23,5 @@ In AWSmS.Utils project, open AWSCredentials.cs and define the variables:
         
 Any doubts about how to configure AWS Credentials? 
 
-Check here: https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-credentials.html
+Check here: https://docs.aws.amazon.com/sdk-for-net/v2/developer-guide/net-dg-config-creds.html
 
