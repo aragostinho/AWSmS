@@ -1,5 +1,5 @@
 # AW SMS
-.Core project to send SMS using Amazon AWS
+.Net Core project to send SMS using Amazon AWS
 
 # AWS SNS (Simple Notification Service)
 This program uses AWSSDK.Core and AWSSDK.SimpleNotificationService.
