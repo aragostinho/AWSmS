@@ -1,4 +1,4 @@
-# AW SMS
+# AWS SMS
 .Net Core project to send SMS using Amazon AWS
 
 # AWS SNS (Simple Notification Service)
